@@ -1,5 +1,5 @@
 /*
- * http://tianji.me/loveme
+ * https://i-square.github.io/love.html
  */
 
 // variables
